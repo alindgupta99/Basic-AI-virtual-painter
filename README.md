@@ -6,5 +6,5 @@ This repository consists of the python code and a video demonstration of the sam
 
 User must have numpy, opencv and mediapipe installed on their machine.
 
-This project was inspired by a similar idea by Mustafa on YouTube
+This project was inspired by a similar idea by Murtaza on YouTube
 Video link: https://www.youtube.com/watch?v=ZiwZaAVbXQo
